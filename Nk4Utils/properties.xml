@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configure>
+	<host>192.168.1.1</host>
+	<username>root</username>
+	<password>nicai</password>
+	<nk4path>D:\Program Files\NetKeeper\NetKeeper.exe</nk4path>
+	<nk4auto>0</nk4auto>
+</configure>
